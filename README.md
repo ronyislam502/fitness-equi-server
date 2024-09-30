@@ -39,8 +39,7 @@ Follow these steps to set up and run the project locally.
 
 1. Clone the repository:
 
-   ```sh
-  (https://github.com/ronyislam502/fitness-equi-server.git)
+   ```https://github.com/ronyislam502/fitness-equi-server.git
    ```
 
 2. Install dependencies:
