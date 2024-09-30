@@ -1,7 +1,7 @@
 <!-- # FitFlex Essentials (Fitness equipment and accessories system) 
 
-## Live URL
-https://fitness-equipment-and-accessories-server.vercel.app/
+## Live link:
+(https://fitness-server-theta.vercel.app/)
 
 ## Table of Contents
 
@@ -40,7 +40,7 @@ Follow these steps to set up and run the project locally.
 1. Clone the repository:
 
    ```sh
-   [git clone https://github.com/rahmanabdulquadir/fitness-equipment-and-accessories-server.git)
+  (https://github.com/ronyislam502/fitness-equipment.git)
    ```
 
 2. Install dependencies:
